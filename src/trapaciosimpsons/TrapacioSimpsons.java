@@ -16,6 +16,8 @@ import metodos.TrapecioExtendido;
 /**
  *
  * @author Chrono's Laptop
+ * 
+ * 
  */
 public class TrapacioSimpsons {
 
